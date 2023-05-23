@@ -82,15 +82,15 @@ Another late addition.
 And another.
 
 
-```{r}
-library(usethis)
-library(gitcreds)
-edit_git_config()
-use_git()
-gitcreds_set()
+These are the functions used to set up git and github with R.
 
-use_github()
-```
+    library(usethis)
+    library(gitcreds)
+    edit_git_config()
+    use_git()
+    gitcreds_set()
+    use_github()
+
 
 Later test.
 
